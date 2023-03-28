@@ -1,1 +1,2 @@
 read 
+düzenlendi
